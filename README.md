@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello !!! Myself Vasugi<br>UG -> B.Tech Artificial Intelligence and Data Science<br>Student at -> Kongu Engineering college, Perundurai, Erode<br>AI | Machine Learning | Data Science | Analytics aspirant.<br>I have a strong desire to acquire knowledge in new technologies to enhance my career and excel in my field.
+Hello !!! Myself Vasugi<br>UG -> B.Tech Artificial Intelligence and Data Science CGPA - 8.83<br>Student at -> Kongu Engineering college, Perundurai, Erode<br>AI | Machine Learning | Data Science | Analytics |Visualization aspirant.<br>I have a strong desire to acquire knowledge in new technologies to enhance my career and excel in my field.
 
 
 ## 🌐 Socials:
